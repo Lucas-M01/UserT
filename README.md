@@ -1,2 +1,2 @@
-# UserT
- Test
+# Registration system
+ User registration and login test
